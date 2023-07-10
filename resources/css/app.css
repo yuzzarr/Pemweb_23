@@ -1,0 +1,62 @@
+.gambar_logo {
+    width: 200px;
+    height: 50px;
+}
+
+.banner {
+    background: url("Gambar/home.png") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.logo_tentang {
+    width: 800px;
+    height: 400px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 25px;
+}
+
+.deskripsi {
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: justify;
+}
+
+.col-md-6 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.col-md-6 p {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.program {
+    margin-top: 50px;
+}
+
+.kotak {
+    display: inline-block;
+    border-radius: 25%;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    color: white;
+    background-color: #0a53be;
+}
+
+.kotak i {
+    position: relative;
+    top: 30px;
+}
+
+.list-mentor {
+    margin-left: 150px;
+}
+
+.fs-3 {
+    margin-top: 20px;
+}
